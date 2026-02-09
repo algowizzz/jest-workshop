@@ -37,11 +37,11 @@ Ensures coupon codes work correctly regardless of letter casing.
 ---
 
 ## CI Pipeline (if implemented)
-- Did CI pass successfully? (Yes / No)
-- GitHub Actions Run URL:
+- Did CI pass successfully? Yes
+- GitHub Actions Run URL: https://github.com/algowizzz/jest-workshop/actions
 
 ---
 
 ## Reflection (1–2 lines)
 What is **one thing** you understood better about testing or CI after this workshop?
-
+I understood how writing targeted test cases helps prevent regressions and how CI automatically validates code on every push or pull request.
